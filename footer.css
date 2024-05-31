@@ -1,0 +1,20 @@
+#footer{
+    min-height: 350px;
+    background-color: #0b5156;
+    text-align: center;
+color: aliceblue;
+padding-top: 40px;
+ }
+ h5{
+     font-family: cursive;
+     font-style: inherit;
+     font-weight: 900;
+ }
+ 
+ 
+#card{
+    background-color: #0b5156;
+}
+ a{
+   text-decoration: none;
+ }

@@ -1,0 +1,26 @@
+.icon{
+    color: white;
+}
+#menu{
+    min-height: 50px;
+    /* background-color: blue; */
+    
+}
+#slider{
+    
+   
+}
+#main{
+    min-height: 200px;
+   margin: 5%; 
+   margin-left: 6%;
+   color: black;
+    
+
+}
+#footer{
+    
+    font-weight: 450;
+    font-size: 18px;
+    background-color: rgb(27, 181, 181);
+}

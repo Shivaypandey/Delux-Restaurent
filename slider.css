@@ -1,0 +1,115 @@
+.bg-img-1{
+    background-image: url(./images/burger\ \(13\).jpg );
+    background-size: cover;
+  }
+  .bg-img-2{
+    background-image: url(./images/pizza\ \(11\).jpg);
+   
+  }
+  .bg-img-3{
+    background-image: url(./images/hot\ \(12\).jpg);
+  }
+  .carousel-image{
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: 2ms;
+   
+  }
+  h2{
+    margin-top: 10vh;
+    color: aliceblue;
+    margin-left: 5vb;
+    text-align: left;
+    font-family: 'Dancing Script', cursive;    
+  font-weight: bold;
+
+}
+  .center{
+    color:aliceblue;
+    width: 450px;
+    font-family: 'Dancing Script', cursive;    
+    font-weight: 400;
+    text-align: center;
+   
+  }
+  .offer_section {
+position: relative;
+padding-top: 45px;
+
+}
+
+.offer_section .box {
+
+display: flex;
+
+        align-items: center;
+margin-top: 45px;
+border-radius: 5px;
+padding: 20px 15px;
+background-color: #0b5156;
+color: #ffffff;
+}
+
+.offer_section .box .img-box {
+width: 175px;
+min-width: 175px;
+height: 175px;
+margin-right: 15px;
+position: relative;
+transition: all 0.1 0.5s;
+border-radius: 100%;
+border: 5px solid #ffbe33;
+overflow: hidden;
+}
+
+.offer_section .box .img-box img {
+width: 100%;
+transition: all .2s;
+}
+
+.offer_section .box .detail-box h5 {
+font-family: 'Dancing Script', cursive;
+font-size: 24px;
+margin: 0;
+}
+
+.offer_section .box .detail-box h6 {
+font-family: 'Dancing Script', cursive;
+margin: 10px 0;
+}
+
+.offer_section .box .detail-box h6 span {
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.offer_section .box .detail-box a {
+display: inline-block;
+padding: 10px 30px;
+background-color: #ffbe33;
+color: #ffffff;
+border-radius: 45px;
+-webkit-transition: all 0.3s;
+transition: all 0.3s;
+border: none;
+}
+
+.offer_section .box .detail-box a:hover {
+background-color: #e69c00;
+}
+
+.offer_section .box .detail-box a svg {
+width: 20px;
+height: auto;
+margin-left: 5px;
+fill: #ffffff;
+}
+
+.offer_section .box:hover .img-box img {
+        transform: scale(1.1);
+}
+a{
+text-decoration: none;
+}

@@ -1,0 +1,27 @@
+img{
+    height: 300px;
+    width: 200px;
+   
+  }
+  .card{
+   
+    color: aliceblue;
+  }
+ img:hover{
+  height: 310px;
+  width: 100%;
+  border-radius: 15%;
+  transition: all 1.5s ;
+  
+ }
+ a{
+  border-radius: 30px;
+  margin-bottom: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+ 
+ }
+ a:hover{
+  background-color:rgb(236, 191, 77);
+  
+ }
